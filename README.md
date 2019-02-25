@@ -1,3 +1,3 @@
-##App de consola para multiplicar
+## App de consola para multiplicar
 
 ejecución dede npm install
